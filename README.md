@@ -1,4 +1,4 @@
-## alô quem fala?, meu nome é julya e eu tenho cabelo laranja
+## alô quem fala? meu nome é julya e eu tenho cabelo laranja
 
 
 <div style="display: inline_block"><br>
